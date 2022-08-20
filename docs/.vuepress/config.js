@@ -6,7 +6,7 @@ module.exports = {
   theme: 'vdoing', // 使用npm包主题
   title: "李同学的网络日志",
   description: '李同学的网络日志',
-  base: '/myblog/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
