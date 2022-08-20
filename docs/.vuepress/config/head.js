@@ -6,7 +6,7 @@ module.exports = [
     'meta',
     {
       name: 'keywords',
-      content: '李同学的网络日志',
+      content: '李同学的网络日志,李同学,李卤味同学,李卤味同学仔',
     },
   ],
   // ['meta', { name: 'baidu-site-verification', content: 'code-LTKHwOecxI' }], // 百度统计的站长验证

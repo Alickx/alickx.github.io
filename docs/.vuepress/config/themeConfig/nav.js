@@ -1,6 +1,6 @@
 // nav
 module.exports = [
   { text: '首页', link: '/' },
-  { text: '留言板', link: '/message-board/' },
-  { text: '我的博客', link: 'https://www.llwstu.com/' },
+  { text: '文章归档', link: '/archives/' },
+  { text: '留言板', link: '/message-board/' }
 ]
