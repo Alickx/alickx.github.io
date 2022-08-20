@@ -28,7 +28,7 @@ module.exports = {
         clientId: "f61de22c356e01cc591a",
         clientSecret: "5e2d07748f39123a2e28ce9fa4388d5aa122fa78",
         owner: "Alickx",
-        repo: "myblog",
+        repo: "alickx.github.io",
       },
     ],
     // 增强 markdown
