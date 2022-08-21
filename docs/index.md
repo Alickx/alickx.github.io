@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png
+heroImage: https://cdn.jsdelivr.net/gh/Alickx/MyImage/img/202208211713443.png
 tagline: 李同学的网络日志
 heroText: log.info("do something {}", today)
 # actionText: 开始浏览 →
