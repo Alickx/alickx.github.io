@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: http://img.llwstu.com/img/202208212352490.png
+heroImage: https://img.llwstu.com/img/202208212352490.png
 tagline: 李同学的网络日志
 heroText: log.info("do something {}", today)
 # actionText: 开始浏览 →
